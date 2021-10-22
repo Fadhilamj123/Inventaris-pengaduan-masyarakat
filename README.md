@@ -1,0 +1,2 @@
+# Inventaris-pengaduan-masyarakat
+Disini saya membuat aplikasi berbasis website yaitu Aplikasi Pengaduan Masyarakat, yang dimana menggunakan bahasa pemrogranan berupa PHP dan juga MySql. Terdapat fitur-fitur yang ada di aplikasi yaitu mengenai database seperti menyimpan laporan, menghapus laporan, mengisi laporan, mengubah laporan, dan mendeskripsikan laporan. Aplikasi ini sangat mempermudah Anda untuk mempermudah akses komunikasi antar Users and Admin.
